@@ -1,6 +1,8 @@
 # BlockChain
 snu 블록체인 강의를 듣고 정리합니다.
 
+
+
 Lecture 1. 블록체인 과거, 현재, 미래
 
 Lecture 2. Introduction to Solidity & Smart Contract
